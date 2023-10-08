@@ -1,0 +1,14 @@
+{
+  "name": "head-first-design-pattern",
+  "version": "1.0.0",
+  "description": "A repo to learn and practice design patterns according Head First Design Patterns book.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "design-pattern"
+  ],
+  "author": "Joseph Ng",
+  "license": "ISC"
+}
